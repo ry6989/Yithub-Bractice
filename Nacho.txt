@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-NachooooCroissantssssssssssssssssssssssssssssssssssssssssssssssssssss BOOM
-=======
-Nachoooooooooooooooooooooooooooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!
->>>>>>> Nachos
+NachooooCroissantssssssssssssssssssssssssssssssssssssssssssssssssss BOOM
